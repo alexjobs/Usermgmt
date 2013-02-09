@@ -36,3 +36,8 @@ Some other plugins are dependent on Cakephp Auth component. I have modified Cake
 Please move Auth_Component/AuthComponent.php to yourapp/app/Controller/Component/ directory.
 
 It is based on Cakephp 2.x User Mgmt Plugin 1.6 Version (Free), which is based on jedt/SparkPlug plugin. 
+
+
+TODO:--
+1. user user relation
+2. group levels 
